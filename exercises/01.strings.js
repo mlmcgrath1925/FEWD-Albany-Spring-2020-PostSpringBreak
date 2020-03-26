@@ -22,6 +22,12 @@
  * create three varibles using the var, let, and const key words
  */
 
+ var one = 'one'
+ let two = 'two'
+ const pi = 'cherry'
+
+ console.log(one + ' ', two + ' ' + pi)
+
 /////////////////////////
 //////// Strings ////////
 /////////////////////////
@@ -38,7 +44,7 @@
  *
  */
 
-// let firstName = "";
+let firstName = "Mari";
 
 /**
  * @description
