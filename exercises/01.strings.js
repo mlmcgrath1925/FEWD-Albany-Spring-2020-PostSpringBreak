@@ -65,5 +65,5 @@ let firstName = "Mari";
 
 /**
  * @do
- * include this file in a new pull request
+ * include this file in a new commit and push
  */
